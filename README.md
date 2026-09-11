@@ -244,4 +244,4 @@ This repository serves as the official landing page for Call of Dead: Modern Dut
 **Get the most recent version of Call of Dead: Modern Duty Hunter & Combat Trigger today!**
 
 ---
-**Last updated:** 2026-09-11 03:16:04 UTC
+**Last updated:** 2026-09-11 08:37:33 UTC
